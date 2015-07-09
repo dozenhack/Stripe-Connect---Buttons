@@ -1,6 +1,6 @@
-# :100:Stripe-Connect---Buttons
+# Stripe-Connect---Buttons
 <br><br>
-### Stripe Button Packs
+### :100:Stripe Button Packs
 <br>
 ![Alt text](https://github.com/dozenhack/Stripe-Connect---Buttons/blob/f667261e7a9c914dfcf2a7adfb40d8564f5b1e42/assets/img/blue-on-light/blue-on-light.png "Blue Button Standard")
 ![Alt text](https://github.com/dozenhack/Stripe-Connect---Buttons/blob/f667261e7a9c914dfcf2a7adfb40d8564f5b1e42/assets/img/light-on-light/light-on-light.png "Light Button Standard")
@@ -71,36 +71,5 @@
   -moz-border-radius: 3px;
   -webkit-border-radius: 3px;
   border-radius: 3px;
-}
-
-.stripe-connect span:before {
-  content: '';
-  display: block;
-  position: absolute;
-  left: 11px;
-  top: 50%;
-  width: 23px;
-  height: 24px;
-  margin-top: -12px;
-  background-repeat: no-repeat;
-  background-size: 23px 24px;
-}
-
-.stripe-connect:active {
-  background: #005D93;
-}
-
-.stripe-connect:active span {
-  color: #EEE;
-
-  background: #008CDD;
-  background-image: -webkit-linear-gradient(#008CDD, #008CDD 85%, #239ADF);
-  background-image: -moz-linear-gradient(#008CDD, #008CDD 85%, #239ADF);
-  background-image: -ms-linear-gradient(#008CDD, #008CDD 85%, #239ADF);
-  background-image: linear-gradient(#008CDD, #008CDD 85%, #239ADF);
-
-  -moz-box-shadow: inset 0 1px 0 rgba(0,0,0,0.1);
-  -webkit-box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.1);
-  box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.1);
 }
 ```
